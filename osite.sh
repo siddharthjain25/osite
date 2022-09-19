@@ -9,7 +9,7 @@ purple="\033[01;35m"
 cyan="\033[01;36m"
 
 # default constant values
-port="1337"
+port="8000"
 tordir=$PWD/hidden_service
 
 
